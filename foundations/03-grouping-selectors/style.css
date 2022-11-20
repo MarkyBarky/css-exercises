@@ -1,0 +1,13 @@
+.yellow,
+.black {
+  font-family: Arial, "Times New Roman", sans-serif;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.yellow {
+  background-color: yellow;
+}
